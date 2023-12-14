@@ -15,7 +15,7 @@ Cloud Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunaseelan-a-r?)
 
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4??style=plastic&logo-appveyorstyle=for-the-badge&logo=microsoft-outlook&logoColor=white)]
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4??style=plastic&logo-appveyorstyle=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜
 
